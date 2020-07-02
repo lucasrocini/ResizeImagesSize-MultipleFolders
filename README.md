@@ -1,0 +1,1 @@
+# ResizeImagesSize-MultipleFolders
